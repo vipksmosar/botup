@@ -6,7 +6,7 @@ idna==2.7
 numpy==1.15.1
 PySocks==1.6.8
 pytz==2018.5
-requests==2.19.1
+requests==2.20.0
 telegram==0.0.1
 urllib3==1.24
 zope.interface==4.5.0
